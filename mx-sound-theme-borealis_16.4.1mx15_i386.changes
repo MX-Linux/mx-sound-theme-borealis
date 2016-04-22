@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 26 Mar 2016 14:40:32 -0400
+Source: mx-sound-theme-borealis
+Binary: mx-sound-theme-borealis
+Architecture: source all
+Version: 16.4.1mx15
+Distribution: mx
+Urgency: low
+Maintainer: anticapitalista <antiX@operamail.com>
+Changed-By: dolphinoracle <dolphinoracle@gmail.com>
+Description:
+ mx-sound-theme-borealis - Sound theme for mx-system-sounds
+Changes:
+ mx-sound-theme-borealis (16.4.1mx15) mx; urgency=low
+ .
+   * new sound theme package, separate from mx-system-sounds
+Checksums-Sha1:
+ e992ebf08d7ebb4e0443578be194f14ff989fa72 677 mx-sound-theme-borealis_16.4.1mx15.dsc
+ d4054b1273f8b8f19942d7cf8112f4440f9c3aef 2799460 mx-sound-theme-borealis_16.4.1mx15.tar.xz
+ a82f098f8162fb49f20a221d9973405466ba934e 2789674 mx-sound-theme-borealis_16.4.1mx15_all.deb
+Checksums-Sha256:
+ 0162c3c11d1b465319a43452b6cc79bb63ba06ea0ea27265bcadca6d1b6ec2cd 677 mx-sound-theme-borealis_16.4.1mx15.dsc
+ baad50a49550cb25d975e4b4df49759b100c0aa899b0b39ca09318f2fd6e3a4d 2799460 mx-sound-theme-borealis_16.4.1mx15.tar.xz
+ 7e3fa75290f0b10684a6bf4b7bfa317850778fb743d5f509799754e86787b745 2789674 mx-sound-theme-borealis_16.4.1mx15_all.deb
+Files:
+ f77700e374b5334ed84b5cd421cd14b9 677 system optional mx-sound-theme-borealis_16.4.1mx15.dsc
+ a7a8352da647a13e7491d23bf542e640 2799460 system optional mx-sound-theme-borealis_16.4.1mx15.tar.xz
+ 10dd56251f6835caf2ce8087cad6053c 2789674 system optional mx-sound-theme-borealis_16.4.1mx15_all.deb

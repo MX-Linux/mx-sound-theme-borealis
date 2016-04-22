@@ -1,0 +1,6 @@
+mx-sound-theme-borealis (16.4.1mx15) mx; urgency=low
+
+  * new sound theme package, separate from mx-system-sounds
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 26 Mar 2016 14:40:32 -0400
+
