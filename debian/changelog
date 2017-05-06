@@ -1,3 +1,13 @@
+mx-sound-theme-borealis (17.4.1mx16) mx; urgency=low
+
+  * added some sound links
+  * menu-click.ogg
+  * menu-popup.ogg
+  * message.ogg
+  * window-attention.ogg
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Fri, 21 Apr 2017 22:16:32 -0400
+
 mx-sound-theme-borealis (16.4.1mx15) mx; urgency=low
 
   * new sound theme package, separate from mx-system-sounds
