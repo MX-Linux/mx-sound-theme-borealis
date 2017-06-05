@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 05 Jun 2017 16:12:41 -0400
+Source: mx-sound-theme-borealis
+Binary: mx-sound-theme-borealis
+Architecture: source all
+Version: 17.6mx16
+Distribution: mx
+Urgency: medium
+Maintainer: anticapitalista <antiX@operamail.com>
+Changed-By: dolphinoracle <dolphinoracle@gmail.com>
+Description:
+ mx-sound-theme-borealis - Sound theme for mx-system-sounds
+Changes:
+ mx-sound-theme-borealis (17.6mx16) mx; urgency=medium
+ .
+   * corrected bad symlinks
+Checksums-Sha1:
+ 103ea03cdce7eaac6e6f48997bd2e8623788f9cb 669 mx-sound-theme-borealis_17.6mx16.dsc
+ e6145a5201cf43cf96359f744a323616d71eda88 2799648 mx-sound-theme-borealis_17.6mx16.tar.xz
+ bc6e4e11d7daee6696bede8b2f442067e625882f 2790160 mx-sound-theme-borealis_17.6mx16_all.deb
+Checksums-Sha256:
+ c927453dfaf2174b6d62bd5cf9d6a4e2c481d228c414828e74b192f46abb0c9b 669 mx-sound-theme-borealis_17.6mx16.dsc
+ ad56bf176d4250117c412dfeb7cb4ffb9956c9f819c84d6b59963e6155c8a7bb 2799648 mx-sound-theme-borealis_17.6mx16.tar.xz
+ 02baa98a17c103ce74a850b93c147bd4a2fb2a5bbed794d533a9bec1758b9d31 2790160 mx-sound-theme-borealis_17.6mx16_all.deb
+Files:
+ d4801d169b475709a0ef79fa0bcff77e 669 system optional mx-sound-theme-borealis_17.6mx16.dsc
+ 70f6d58ac9ec76e74f3faa1239a801bb 2799648 system optional mx-sound-theme-borealis_17.6mx16.tar.xz
+ b9185495179a53953250922dd788d900 2790160 system optional mx-sound-theme-borealis_17.6mx16_all.deb

@@ -1,3 +1,9 @@
+mx-sound-theme-borealis (17.6mx16) mx; urgency=medium
+
+  * corrected bad symlinks
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 05 Jun 2017 16:12:41 -0400
+
 mx-sound-theme-borealis (17.4.1mx16) mx; urgency=low
 
   * added some sound links
